@@ -39,3 +39,9 @@ body
 
     font-size: 20px;
 }
+
+#contenedorfoter #conFooter {
+
+    background: #000 ;
+    color: #fff;
+}
